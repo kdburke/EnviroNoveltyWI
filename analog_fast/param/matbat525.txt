@@ -1,0 +1,4 @@
+Batch file 525. WI Climate, ag, and veg by county. Data for 1890, 2012. CL = CountyLevel. Local Change. With reduced climate and transformed livestock/human pop.   
+RUNCODE FNAMEREFFILE FNAMETARFILE FNAMEREFFILECLIM FNAMEREFFILESD FNAMET2P_T2_FILE FNAME_T2P_T3_FILE NOANALOGTHRESH NANALOG DWT
+525_2012_climagveg_novelty_to_1890_CL_Local clim_aglu_veg_mean_1890_RC.txt clim_aglu_veg_mean_2012_RC.txt junk.txt clim_aglu_veg_sd_all_RC.txt junk.txt junk.txt 10000 1 0
+10

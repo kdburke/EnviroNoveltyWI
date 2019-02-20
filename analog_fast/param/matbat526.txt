@@ -1,0 +1,4 @@
+Batch file 526. WI Climate. Data for 1890, 2012. 4x4km grid cells. Redo with reduced climate variables.   
+RUNCODE FNAMEREFFILE FNAMETARFILE FNAMEREFFILECLIM FNAMEREFFILESD FNAMET2P_T2_FILE FNAME_T2P_T3_FILE NOANALOGTHRESH NANALOG DWT
+526_2012_clim_novelty_to_1890_4x4 wisconsin_4km_mean_1910_RC.txt wisconsin_4km_mean_2000_RC.txt junk.txt clim_4x4_sd_all_RC.txt junk.txt junk.txt 10000 1 0
+10

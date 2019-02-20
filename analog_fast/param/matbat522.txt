@@ -1,0 +1,7 @@
+Batch file 522. WI Climate by county. Data for 1890, 1930, 1960, 2012. CL = CountyLevel. Reduced climate variables = RC.   
+RUNCODE FNAMEREFFILE FNAMETARFILE FNAMEREFFILECLIM FNAMEREFFILESD FNAMET2P_T2_FILE FNAME_T2P_T3_FILE NOANALOGTHRESH NANALOG DWT
+522_1930_clim_novelty_to_1890_CL clim_mean_1890_RC.txt clim_mean_1930_RC.txt junk.txt clim_sd_all_RC.txt junk.txt junk.txt 10000 1 0
+522_1960_clim_novelty_to_1930_CL clim_mean_1930_RC.txt clim_mean_1960_RC.txt junk.txt clim_sd_all_RC.txt junk.txt junk.txt 10000 1 0
+522_2012_clim_novelty_to_1960_CL clim_mean_1960_RC.txt clim_mean_2012_RC.txt junk.txt clim_sd_all_RC.txt junk.txt junk.txt 10000 1 0
+522_2012_clim_novelty_to_1890_CL clim_mean_1890_RC.txt clim_mean_2012_RC.txt junk.txt clim_sd_all_RC.txt junk.txt junk.txt 10000 1 0
+10

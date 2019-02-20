@@ -1,0 +1,4 @@
+Batch file 515. WI Veg. Data for 1890,2012. County level. Individual variable type novelty maps. local change only.  
+RUNCODE FNAMEREFFILE FNAMETARFILE FNAMEREFFILECLIM FNAMEREFFILESD FNAMET2P_T2_FILE FNAME_T2P_T3_FILE NOANALOGTHRESH NANALOG DWT
+515_2012_veg_novelty_to_1890_cl_local veg_1890_cty_mean.txt veg_2012_cty_mean.txt junk.txt biom_cty_sd.txt junk.txt junk.txt 10000 1 0
+10

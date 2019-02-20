@@ -1,0 +1,4 @@
+Batch file 514. WI Climate. Data for 1890,2012. County level. Individual variable type novelty maps.   
+RUNCODE FNAMEREFFILE FNAMETARFILE FNAMEREFFILECLIM FNAMEREFFILESD FNAMET2P_T2_FILE FNAME_T2P_T3_FILE NOANALOGTHRESH NANALOG DWT
+514_2012_clim_novelty_to_1890_cl_local clim_only_mean_1890.txt clim_only_mean_2012.txt junk.txt clim_sd_all.txt junk.txt junk.txt 10000 1 0
+10

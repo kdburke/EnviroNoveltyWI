@@ -1,0 +1,4 @@
+Batch file 516. WI  aglu. Data for 1890,2012. County level. Individual variable type novelty maps. local analysis.  
+RUNCODE FNAMEREFFILE FNAMETARFILE FNAMEREFFILECLIM FNAMEREFFILESD FNAMET2P_T2_FILE FNAME_T2P_T3_FILE NOANALOGTHRESH NANALOG DWT
+516_2012_aglu_novelty_to_1890_cl_local aglu_only_mean_1890.txt aglu_only_mean_2012.txt junk.txt aglu_sd_all.txt junk.txt junk.txt 10000 1 0
+10

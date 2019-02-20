@@ -1,0 +1,4 @@
+Batch file 517. WI Climate, ag, and veg by county. Data for 1890, 2012. CL = CountyLevel. Mahalanobis Distance.   
+RUNCODE FNAMEREFFILE FNAMETARFILE FNAMEREFFILECLIM FNAMEREFFILESD FNAMET2P_T2_FILE FNAME_T2P_T3_FILE NOANALOGTHRESH NANALOG DWT
+517_2012_climagveg_novelty_to_1890_CL clim_aglu_veg_mean_1890.txt clim_aglu_veg_mean_2012.txt junk.txt clim_aglu_veg_sd_all.txt junk.txt junk.txt 10000 1 0
+10

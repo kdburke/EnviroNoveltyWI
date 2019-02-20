@@ -1,0 +1,7 @@
+Batch file 527. WI  aglu. Data for 1890,1930,1960,2012. County level. Individual variable type novelty maps. Removed human pop.  
+RUNCODE FNAMEREFFILE FNAMETARFILE FNAMEREFFILECLIM FNAMEREFFILESD FNAMET2P_T2_FILE FNAME_T2P_T3_FILE NOANALOGTHRESH NANALOG DWT
+527_1930_aglu_novelty_to_1890_cl aglu_only_mean_1890_HP.txt aglu_only_mean_1930_HP.txt junk.txt aglu_sd_all_HP.txt junk.txt junk.txt 10000 1 0
+527_1960_aglu_novelty_to_1930_cl aglu_only_mean_1930_HP.txt aglu_only_mean_1960_HP.txt junk.txt aglu_sd_all_HP.txt junk.txt junk.txt 10000 1 0
+527_2012_aglu_novelty_to_1960_cl aglu_only_mean_1960_HP.txt aglu_only_mean_2012_HP.txt junk.txt aglu_sd_all_HP.txt junk.txt junk.txt 10000 1 0
+527_2012_aglu_novelty_to_1890_cl aglu_only_mean_1890_HP.txt aglu_only_mean_2012_HP.txt junk.txt aglu_sd_all_HP.txt junk.txt junk.txt 10000 1 0
+10
